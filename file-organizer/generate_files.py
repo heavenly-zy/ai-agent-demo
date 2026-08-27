@@ -9,7 +9,7 @@ from pathlib import Path
 # 1. 丰富的素材库 (随机的灵魂)
 # ==========================================
 FILE_COUNT = 50
-TARGET_FOLDER_NAME = "Agent测试文件库_最终版"
+TARGET_FOLDER_NAME = "agent-test-files"
 
 PREFIXES = [
     "【最终版】", "【草稿】", "复件-", "Temp_", "2023年度-", "2024年第一季度-", 

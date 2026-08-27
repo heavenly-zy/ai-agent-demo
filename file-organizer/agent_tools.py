@@ -6,7 +6,7 @@ import json
 # 1. 配置区域
 # ==========================================
 # ⚠️ 注意：这里的名字必须和 generate_files.py 生成的文件夹一致
-TARGET_DIR_NAME = "Agent测试文件库_最终版"
+TARGET_DIR_NAME = "agent-test-files"
 
 # 获取当前脚本所在目录的绝对路径，锁定操作范围
 BASE_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), TARGET_DIR_NAME)

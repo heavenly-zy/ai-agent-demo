@@ -11,7 +11,7 @@ client = OpenAI(
     base_url=os.getenv("DEEP_SEEK_API_URL")
 )
 # 必须和 generate_files.py 生成的文件夹名字完全一致
-TARGET_DIR_NAME = "Agent测试文件库_最终版"
+TARGET_DIR_NAME = "agent-test-files"
 
 # ==========================================
 # 2. 定义工具函数 (Agent 的双手)
