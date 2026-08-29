@@ -9,3 +9,9 @@ conda activate ai_agent
 
 python --version
 ```
+
+## 批量安装项目依赖
+
+```sh
+pip install -r requirements.txt
+```
