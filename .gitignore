@@ -4,3 +4,7 @@ my_rag_db
 
 # Local LangGraph checkpoint data
 /langchain/checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
